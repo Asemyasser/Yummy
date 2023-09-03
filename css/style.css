@@ -1,0 +1,55 @@
+/* GENERAL */
+.cursor-pointer {
+  cursor: pointer;
+}
+
+i {
+  cursor: pointer;
+}
+
+/* LOADING SCREEN */
+.website-loading {
+  display: flex;
+  z-index: 9999;
+}
+
+.inner-loading-screen {
+  position: absolute;
+  z-index: 99;
+  background-color: black;
+  display: flex;
+}
+
+/* SIDE NAV */
+.side-nav {
+  z-index: 999;
+  left: -256.562px;
+}
+
+.logo {
+  width: 50px;
+}
+
+/* MAIN SECTION */
+.meal-layer {
+  background-color: #f9f6f6ca;
+  transition: 0.5s;
+}
+
+.meal:hover .meal-layer {
+  top: 0 !important;
+}
+
+.alert {
+  width: fit-content;
+}
+
+input::placeholder {
+  color: #fff !important;
+  opacity: 0.4 !important;
+}
+
+.contact input::placeholder {
+  color: #575d61 !important;
+  opacity: 1 !important;
+}
