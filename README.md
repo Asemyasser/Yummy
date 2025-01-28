@@ -55,10 +55,10 @@ Since this is a custom HTML, CSS, and JavaScript project, you can simply clone t
 ### Home Page
 ![All Recipes](screenshots/yummy1.PNG)
 
-### Product Listings
+### Recipes by Category
 ![Recipes by Category](screenshots/Yummy2.PNG)
 
-### Shopping Cart
+### Details for the Recipe
 ![Recipe Ingredients](screenshots/Yummy3.PNG)
 
 ---
