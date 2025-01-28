@@ -58,7 +58,7 @@ Since this is a custom HTML, CSS, and JavaScript project, you can simply clone t
 ### Recipes by Category
 ![Recipes by Category](screenshots/Yummy2.PNG)
 
-### Details for the Recipe
+### Details of the Recipe
 ![Recipe Ingredients](screenshots/Yummy3.PNG)
 
 ---
